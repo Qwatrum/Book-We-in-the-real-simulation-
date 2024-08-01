@@ -60,3 +60,42 @@ Monyelta steht auf und schüttelt meine Hand.
 „Äh ja… Ich bin mir ziemlich sicher, dass ich gerade mit einem Verrücktem in einer kleinen Küche stehen, der sich über eine Lasagne her macht.“
 „Entschuldigung, also wegen der Lasagne. Ich hatte schrecklichen Hunger, und sie stand herrenlos einfach rum, da dachte ich…“
 „Jaja, ok verstanden. Sie sind verrückt und gefräßig.“, unterbreche ich ihn, leicht genervt.
+„Ok, es wird schwieriger als ich dachte. Also: Wir leben alle in einer Simulation und werden ausgenutzt für die Forschung.“
+„Ja und wir sind alle nur Gehirne in Tanks kontrolliert von Computern.“, entgegne ich genervt.
+„Du glaubst mir nicht. Außerdem sind wir nur Dateien, oder so was ähnliches zumindest.“
+„Ich glaube dir in der Tat nicht, weil es eine Schwachsinns Vorstellung ist, ok?“
+„Hörzu, du hast dich heute, als Lukas sein Geldbeutel gesucht hat, gefragt, ob du ihm helfen sollst, ob er dir schonmal geholfen hat, dann hast du gedacht, dass es doch egal sei, weil er dein Freund ist. Das wird alles gespeichert und ich habe Zugriff. Sie sind nicht gerade glücklich. Ich muss jetzt gehen.“
+„Was? Woher weißt du das? Und wer sind ‚sie‘?“
+„Hier hast du ein USB-Stick mit Beweisen. Du findest mich, wenn du weitere Fragen hast. Ich empfehle dir sehr ihn dir anzuschauen.“
+„Aber warum?“
+„Weil…“ und er machte eine kurze Pause, „Weil ich es nicht beenden kann. Du aber schon.“
+„Und was waren das für Notizen?“, frage ich, aber er ist schon auf dem Weg nach draußen.
+
+Kapitel 2
+„Herzlich Willkommen zur etwas spontanen Versammlung, aber wir haben Neuigkeiten.“, begann Ralph, der Leiter von diesem Gebäude und ein recht hoch Angestellter, muss also wichtig sein, wenn er geschickt wird, denke ich.
+„Gestern wurde ihr nach euer Mittagspause nach Hause geschickt, weil alle Systeme hier außer Betrieb waren. Die Ursache dafür beträgt eine Überlastung der Rechner. Wir wissen leider nicht genau, was die Überlastung ausgelöst hat, und es ist uns ein Rätsel, weil es eigentlich nichts gäben könnte, was einfach mal die leistungsstärksten Computer auf der Welt überfordert. Es kam nichts zu Schaden und ihr könnt normal weiterarbeiten. Sollte es nochmal zu so einen Zwischenfall kommen, sehen wir uns gezwungen Maßnahmen zu ergreifen und die Arbeitsplätze inklusive deren Computer zu durchsuchen. Solltet ihr Fragen haben, wendet euch gerne an mich. Vielen Dank für eure Aufmerksamkeit und stay safe.“
+Klatschen.
+‚Stay safe‘ Das ist unser Firmenmotto. Passt aber auch irgendwie. Nun geht es wie immer an die Arbeit. Heute stehen weitere Tests an und ein Meeting, bei dem die ersten Features der Verbesserungen veröffentlicht werden. 
+Die Testläufe waren wie immer, gibt man dem Roboter die Hand und hält lange fest und dreht sie dabei, dreht er durch. Wir wissen nicht ganz warum, aber es ist nicht gut, wenn er die Hand absprengt. Ob solche Roboter auch im Krieg kämpfen könnten? 
+Wir kommen aber trotzdem gut voran und haben beim Meeting auch was zu zeigen.
+Endlich wird jetzt erzählt was so neu sein wird.
+Wir erfahren aber nur die erste Welle von Verbesserungen. Und sie werden uns mit einer sehr langen Präsentation vermittelt. Aber immerhin ist die Präsentation interessant, weil man auch erfährt, was die anderen so gemacht haben. Wir stellen auch unseren Fix vor, dass der Roboter nicht sofort durchdreht, und bekommen Applaus.
+Und dann erinnere ich mich wieder an den USB-Stick. Der Präsentator, ich glaube der heißt Alex oder so redet gerade drüber, dass die Roboter jetzt nahe zu alles speichern, um aus ihren Fehlern zu lernen, aber auch für zukünftige Situationen vorbereitet zu sein. Sowas ähnliches haben sie schon davor gemacht, allerdings nicht qualitativ genug. Da er gerade aber von Speichern von Informationen redet, fällt mir das Gespräch mit Monyelta wieder ein. Komischer Kauz. Der USB-Stick ist in meiner Hosentasche gelandet, als ich Stimmen gehört habe und zu den verwirrten Leuten, bei der Tür gegangen bin. Ich frage mich wie er es geschafft hat nicht aufzufallen.
+Jetzt liegt der Stick zu Hause. Auf keinen Fall werde ich ihn einfach in mein Computer stecken. Ich habe aber mal ein Tool programmiert, was eine virtuelle Umgebung erzeugt, in der man den USB-Stick benutzt. Der Stick denkt, alles ist normal und er befindet sich in einem normalen Computer, aber Beobachter wissen, dass es nur Schein ist. Wie bei Menschen in einer Simulation. Dummer Gedanke! Wir leben in keiner Simulation.
+Das Meeting geht zu Ende und die meisten sind begeistert. Wir bekamen noch weitere Informationen und es wurde auch ein neues Programm zugelassen, das die Arbeit erleichtert.
+„Ähm Andreas? Du bist seit dem Meeting irgendwie komisch. Du siehst so aus als ob du die ganzen Zeit an irgendwas denkst und nicht wirklich bei der Sache bist. Versteh mich nicht falsch, aber das ist mein Eindruck.“, beginnt Lukas ein Gespräch, mit dem ich nicht gerechnet habe. Wir bauen gerade eine abgefallene Hand wieder an. 
+„Ehrlich gesagt, ja du hast Recht. Ich bin bisschen neben der Spur. Ich habe gestern was herausgefunden, weiß aber nicht, ob es stimmt, und es verunsichert mich.“
+„Wenn du Hilfe brauchst, bin ich für dich da.“
+„Alles gut, danke. Aber jetzt gerade würde ich am liebsten weiterarbeiten und ihn zwei Stunden ist endlich Feierabend und Wochenende.“
+„Ja ich freue mich auch schon. Worauf freust du dich?“
+„Ach nichts Besonderes…“, lüge ich. Obwohl ich mich ja nicht wirklich freue den USB-Stick zu öffnen. Wer weiß, ob Monyelta recht hat. Er wird aber sich wahrscheinlich nur ein Spaß gemacht haben, die Tür war offen, die Gesichter den Angestellten und ihre Namen findet man im Internet schnell.
+Feierabend.
+Zu Hause ankommend wasche ich mir die Hände und setze mich an meine Computer. Mein Programm sollte noch funktionieren und ich starte es. Es lädt zwar ein bisschen, sieht aber gut aus. Mein Blick fällt auf eine Zimmerpflanze die dringend mal Wasser bräuchte.
+‚Bing‘ Das war der Startton vom Programm. Ich hole den USB-Stick und schaue ihn mir an.
+Kein Logo. Nur ein Wort eingraviert: ‚Augenfarbe‘
+Als ob er wüsste, dass ich mir seine Augen genau angeschaut habe. Ich stecke den USB-Stick in meinen Computer und das Programm beginnt zu arbeiten.
+Kaum zehn Sekunden später muss ich ein Passwort eingeben, um den USB-Stick zu entspeeren.
+‚Grün‘
+128 GB. Nicht gerade wenig, was mein Freund mir da gegeben hat. Freund. Ich lache leicht auf. Als ob ich mich so jemandem befreundet sein wollen würde.
+Ein Ordner und eine Textdatei.
+Die Textdatei heißt ‚informations.txt‘ und der Ordner ‚LOG_AWG#1.2.9‘
